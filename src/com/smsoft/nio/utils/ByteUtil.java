@@ -1,4 +1,4 @@
-package com.smsoft.nio.util;
+package com.smsoft.nio.utils;
 
 import java.nio.BufferUnderflowException;
 import java.nio.ByteBuffer;
